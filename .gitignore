@@ -1,0 +1,4 @@
+data/* 
+# if the data is large or contains sensitive info, it can be tracked using DVC with data stored in GCS or google drive
+!data/email_campaigns.pkl
+.DS_Store
